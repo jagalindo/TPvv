@@ -5,8 +5,8 @@ Objective: to manipulate a framework for automatic execution of unit test cases 
 
 You will find:
 
-*PhonyList : A basic project to explore Junit
-*Slides : Some slides to offer student support (a very light content)
-*Subject : The concrete tasks to be done by the students
+* PhonyList : A basic project to explore Junit
+* Slides : Some slides to offer student support (a very light content)
+* Subject : The concrete tasks to be done by the students
 
 Go to http://people.rennes.inria.fr/Benoit.Baudry/test-course/ to find more information
